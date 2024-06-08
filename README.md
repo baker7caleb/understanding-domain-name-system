@@ -93,7 +93,7 @@ Once this is done, go back into Client-1 and back into Command Prompt. Type in "
 <img src="https://i.imgur.com/KhPn7Je.png" height="80%" width="80%" alt="14"/>
 </p>
 
-After completing this lab, you should have a basic understanding of how and what DNS is. DNS is only a small part of networking concepts and I hope that this tutorial will give you a base knowledge in this! Continue to learn and grow everyday!
+After completing this lab, you should have a basic understanding of how and what DNS is.
 
 
 
